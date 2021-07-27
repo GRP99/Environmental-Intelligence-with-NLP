@@ -24,5 +24,5 @@ When the chat ends, the system should present a summary of the conversation.
 [renata-pic]: https://image.flaticon.com/icons/png/128/634/634795.png
 
 <div align="center">
-  <sub>October 2020</sub>
+  <sub>December 2020</sub>
 </div>
